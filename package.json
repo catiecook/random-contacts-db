@@ -1,0 +1,17 @@
+{
+  "name": "random-contacts-knex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "random-names.js",
+  "dependencies": {
+    "faker": "^3.1.0",
+    "knex": "^0.11.10",
+    "pg": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
